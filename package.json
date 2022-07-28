@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio13-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicio 13",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "Luis Ibañez",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
